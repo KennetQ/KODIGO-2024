@@ -1,0 +1,20 @@
+1. Distribución de los Montos de Transacción:
+La mayoría de las transacciones tienen montos relativamente bajos, con una concentración mayor en valores entre 0 y 300,000.
+A medida que los montos aumentan, la frecuencia de las transacciones disminuye significativamente, indicando que las transacciones de valores altos (más de 300,000) son mucho menos comunes.
+Existe una larga cola hacia la derecha, lo que sugiere la presencia de algunas transacciones de alto valor, aunque son raras.
+
+2. Número de Transacciones por Tipo de Tarjeta:
+Las tarjetas Silver son las más utilizadas para las transacciones en este conjunto de datos, lo que indica que probablemente sea la tarjeta más popular o de mayor disponibilidad entre los usuarios.
+Signature también tiene un número considerable de transacciones, seguida por Platinum y Gold.
+Las tarjetas Gold son las menos utilizadas, lo que puede deberse a que son emitidas a un grupo más selecto de usuarios o tienen condiciones más restrictivas.
+
+3. Resumen Estadístico de los Montos:
+Monto promedio de las transacciones es de 156,411.54, con una desviación estándar alta de 103,063.25, lo que refleja una gran variabilidad en los montos de las transacciones.
+
+El monto mínimo es 1,005, mientras que el máximo es 998,077, lo que indica que hay algunas transacciones de valores extremadamente altos.
+Los percentiles (25%, 50%, 75%) muestran que:
+
+El 25% de las transacciones tienen montos menores a 77,120.25.
+El 50% (la mediana) tienen montos menores a 153,106.5.
+El 75% de las transacciones tienen montos menores a 228,050.
+
